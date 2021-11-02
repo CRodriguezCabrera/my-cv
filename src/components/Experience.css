@@ -1,0 +1,11 @@
+.experience__title{
+    background-color: rgba(240, 248, 255, 0.288);
+    padding: 2px 0px;
+}
+.experience__work{
+    font-weight: bold;
+}
+
+.experience__list{
+    padding: 20px;
+}
